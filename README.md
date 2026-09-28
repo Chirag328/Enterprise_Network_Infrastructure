@@ -8,7 +8,7 @@ This project demonstrates the design, configuration, and security hardening of a
 ## Network Architecture & Design
 
 ### Topology Overview
-![Network Topology](Topology.png)
+![Network Topology](Topology_Module1.png)
 
 The enterprise infrastructure is logically separated into distinct administrative, operational, and server subnets across two primary sites connected through a central core router (`Core-RT`).
 
